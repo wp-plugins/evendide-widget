@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 Plugin Name: eVendi.de-Widget 
 Plugin URI: https://www.evendi.de/
@@ -151,7 +151,7 @@ function eVendiAdminOptions() {
 }
 
 function addEvendiPagePluginSettings($links) {
-	$mylinks = array('<a href="' . admin_url( 'options-general.php?page=' . plugin_basename(__FILE__) ) . '">'.__('Settings').' ii</a>');
+	$mylinks = array('<a href="' . admin_url( 'options-general.php?page=' . plugin_basename(__FILE__) ) . '">'.__('Settings').'</a>');
 	return array_merge( $links, $mylinks );
 }
 
