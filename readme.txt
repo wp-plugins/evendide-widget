@@ -18,15 +18,15 @@ und Versandkosten aus z.Zt ca. über 60 Millionen Angeboten werden ständig aktu
 in Echtzeit zur Verfügung.
 
 Über den Beitrags-Editor (egal ob Visuell oder Text) wird einfach an der gewünschten Stelle das Widget mit 
-eckigen Klammern (Shortcode) aktiviert/eingefügt[evwidget=SUCHBEGRIFF].Das gewünschte Produkt wird einfach als 
-Suchbegriff direkt ohne Leerzeichen oder Anführungszeichen nach dem „=“angefügt. 
+eckigen Klammern (Shortcode) aktiviert/eingefügt [evwidget=SUCHBEGRIFF]. Das gewünschte Produkt wird einfach als 
+Suchbegriff direkt ohne Leerzeichen oder Anführungszeichen nach dem „=“angefügt.
+ 
 WICHTIG!
-Der Suchbegriff sollte 
-so genau wie möglich angegeben werden, also z.B. „iPhone 6 64 GB“ und nicht einfach „iPhone“, oder „Apple“. 
-Dies bewirkt nur ungenaue und unbefriedigende Ergebnisse.
-Über eVendi.de Datenbank werden dann im fertig erstellten 
-Beitrag automatisch die entsprechenden Angebote angezeigt. Dabei passt sich die Anzeige und Darstellung des 
-eVendi.de Widgets automatisch der verfügbaren Breite an.
+
+Der Suchbegriff sollte so genau wie möglich angegeben werden, also z.B. „iPhone 6 64 GB“ und nicht einfach 
+„iPhone“, oder „Apple“. Dies bewirkt nur ungenaue und unbefriedigende Ergebnisse.
+Über eVendi.de Datenbank werden dann im fertig erstellten Beitrag automatisch die entsprechenden Angebote angezeigt. 
+Dabei passt sich die Anzeige und Darstellung des eVendi.de Widgets automatisch der verfügbaren Breite an.
 
 Das eVendi.de Plugin ist kostenfrei und kann zeitlich 
 unbegrenzt getestet werden. Auszahlungen von Provisionen jedoch sind ohne einen von eVendi.de zugewiesenen 
