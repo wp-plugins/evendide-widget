@@ -52,9 +52,4 @@ PubTag und ohne vorherige Registrierung nicht möglich.
 = 1.0 =
 * Erste Version
 
-== Upgrade Notice ==
-
-== Arbitrary section ==
-
-== A brief Markdown Example ==
 
