@@ -14,7 +14,7 @@ Der Preisvergleich für Deinen WordPressBlog - Price Comparison Extension for yo
 
 Das eVendi.de – WordPress Plugin ermöglicht die einfache Integration eines Preisvergleiches von 
 Produkten an jeder gewünschten Stelle eines Posts Ihres WordPress Blogs. Angaben zu Preisen, Verfügbarkeit 
-und Versandkosten aus z.Zt ca. über 60 Millionen Angeboten werden ständig aktuell gepflegt und stehen fast 
+und Versandkosten aus z.Zt ca. über 70 Millionen Angeboten werden ständig aktuell gepflegt und stehen fast 
 in Echtzeit zur Verfügung.
 
 Über den Beitrags-Editor (egal ob Visuell oder Text) wird einfach an der gewünschten Stelle das Widget mit 
