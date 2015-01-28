@@ -12,22 +12,33 @@ Der Preisvergleich für Deinen WordPressBlog - Price Comparison Extension for yo
  
 == Description ==
 
-Das **eVendi.de – WordPress Plugin** bietet  Ihnen ab sofort die Möglichkeit, auf Ihrer Webseite konkrete Preise von einzelnen Produkten neben Produkttests, Produktbeschreibungen oder Produktempfehlungen zu integrieren.
-Sofern Sie bislang gar keine Preisinformationen zu Produkten, unverbindliche Preisempfehlungen oder nur die Preise eines einzelnen Anbieters angezeigt haben, ist das eVendi.de WordPress Plugin genau richtig für Sie.
-Integrieren Sie ganz einfach eine Art Mini-Preisvergleich direkt in Ihre Webseite und verdienen Sie mit jedem Shopklick einen **Werbekostenzuschuss** (Konditionen erfahren Sie bei der Registrierung).
-Angaben zu Preisen, Verfügbarkeit und Versandkosten aus z.Zt ca. über 70 Millionen Angeboten werden ständig aktuell gepflegt und stehen fast in Echtzeit zur Verfügung.
+Das **eVendi.de – WordPress Plugin** bietet  Ihnen ab sofort die Möglichkeit, auf Ihrer Webseite konkrete 
+Preise von einzelnen Produkten neben Produkttests, Produktbeschreibungen oder Produktempfehlungen zu 
+integrieren.
+ Sofern Sie bislang gar keine Preisinformationen zu Produkten, unverbindliche Preisempfehlungen 
+oder nur die Preise eines einzelnen Anbieters angezeigt haben, ist das eVendi.de WordPress Plugin genau 
+richtig für Sie. 
+Integrieren Sie ganz einfach eine Art Mini-Preisvergleich direkt in Ihre Webseite und 
+verdienen Sie mit jedem Shopklick einen **Werbekostenzuschuss** (Konditionen erfahren Sie bei der Registrierung).
+ 
+Angaben zu Preisen, Verfügbarkeit und Versandkosten aus z.Zt ca. über 70 Millionen Angeboten werden ständig 
+aktuell gepflegt und stehen fast in Echtzeit zur Verfügung.
 
-Ihre Vorteile:
-
+ 
+
+= Ihre Vorteile:
+ =
 * Vergütung, Sie, als Webseitenbetreiber, werden von uns an jedem Umsatz beteiligt, den wir durch einen Ihrer Nutzer generieren. Dabei werden auch Klicks vergütet, die nicht direkt in einen Online-Shop gehen, sondern erst zu eVendi.de und anschließend in einen Online-Shop.
-* Mehrwert, die Besucher Ihrer Webseite bekommen zusätzliche Informationen zu den Produkten in Form von aktuellen und attraktiven Preise sowie der Möglichkeit, die Produkte direkt online zu erwerben, ohne erst auf anderen Webseiten nach Preisen suchen zu müssen.
+
+* Mehrwert, die Besucher Ihrer Webseite bekommen zusätzliche Informationen zu den Produkten in Form von aktuellen und attraktiven Preise sowie der Möglichkeit, die Produkte direkt online zu erwerben, ohne erst auf anderen Webseiten nach Preisen suchen zu müssen.
+
 * Das eVendi.de WordPress Plugin ist **kostenfrei!**
 
 Über den Beitrags-Editor (egal ob Visuell oder Text) wird einfach an der gewünschten Stelle das Widget mit 
-eckigen Klammern (Shortcode) aktiviert/eingefügt [evwidget=SUCHBEGRIFF]. Das gewünschte Produkt wird einfach als 
-Suchbegriff direkt ohne Leerzeichen oder Anführungszeichen nach dem „=“angefügt.
+eckigen Klammern (Shortcode) aktiviert/eingefügt ‘[evwidget=SUCHBEGRIFF]’. Das gewünschte Produkt wird einfach als 
+Suchbegriff direkt ohne Leerzeichen oder Anführungszeichen nach dem „=“ angefügt.
  
-WICHTIG!
+= WICHTIG! =
 
 Der Suchbegriff sollte so genau wie möglich angegeben werden, also z.B. „iPhone 6 64 GB“ und nicht einfach 
 „iPhone“, oder „Apple“. Dies bewirkt nur ungenaue und unbefriedigende Ergebnisse.
