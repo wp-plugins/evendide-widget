@@ -1,5 +1,5 @@
 ﻿=== eVendi.de Widget ===
-Contributors: evendi.de
+Contributors: eVendi.de
 Donate link: http://www.evendi.de/
 Tags: Preisvergleich, Preis, Price Comparison, Affiliate
 Requires at least: 3.0.1
